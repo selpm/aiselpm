@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: ISC
 pragma solidity ^0.8.20;
 
-interface Aave {
+interface Selpm {
     struct InvestmentProduct {
         bool exists;
         string name;
